@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <CommunityCoreLibrary.ModHelperDef>
+        <defName>Fluffy_AnimalIncest</defName>
+        <ModName>Animal Incest</ModName>
+        <minCCLVersion>0.14.0</minCCLVersion>
+        <PostLoadInjectors>
+        	<li>Fluffy_AnimalIncest.Injector</li>
+        </PostLoadInjectors>
+    </CommunityCoreLibrary.ModHelperDef>
+</Defs>
